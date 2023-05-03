@@ -9,6 +9,4 @@
 |4|[Roman to Integer](https://github.com/isabellukk/100-days-of-code/blob/main/roman_to_integer.js)|[Easy](https://leetcode.com/problems/roman-to-integer/)|
 |5|[Container With Most Water](https://github.com/isabellukk/100-days-of-code/blob/main/container_with_most_water.js)|[Medium](https://leetcode.com/problems/container-with-most-water/)|
 |6|[Search in Rotated Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/search_in_rotated_sorted_array.js)|[Medium]( https://leetcode.com/problems/search-in-rotated-sorted-array/)|
-|6|[Majority Element](https://github.com/isabellukk/100-days-of-code/blob/main/majority_element.js)|[Easy]( https://leetcode.com/problems/majority-element/)|
-
-
+|7|[Majority Element](https://github.com/isabellukk/100-days-of-code/blob/main/majority_element.js)|[Easy]( https://leetcode.com/problems/majority-element/)|
