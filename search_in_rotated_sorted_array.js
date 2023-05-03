@@ -22,6 +22,10 @@ var search = function (nums, target) {
     if (nums[mid] === target) {
       return mid;
     }
+
+    // we know the number is on the right if the mid is greater AND the first index is greater
+    // we'll set the right equal to mid + 1
+    // if its
     if (
       (nums[left] <= target && target < nums[mid]) ||
       (nums[left] > nums[mid] && (target >= nums[left] || target < nums[mid]))
@@ -35,8 +39,12 @@ var search = function (nums, target) {
   return nums[left] === target ? left : -1;
 };
 
-let nums = [4, 5, 6, 7, 0, 1, 2];
-let target = 0;
+// let nums = [4, 5, 6, 7, 0, 1, 2];
+// let target = 0;
 // Expected Output: 4
+
+let nums = [4, 5, 6, 7, 0, 1, 2];
+let target = 6;
+// Expected Output: 2
 
 console.log(search(nums, target));
