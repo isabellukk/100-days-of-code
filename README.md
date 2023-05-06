@@ -10,4 +10,5 @@
 |5|[Container With Most Water](https://github.com/isabellukk/100-days-of-code/blob/main/container_with_most_water.js)|[Medium](https://leetcode.com/problems/container-with-most-water/)|
 |6|[Search in Rotated Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/search_in_rotated_sorted_array.js)|[Medium]( https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 |7|[Majority Element](https://github.com/isabellukk/100-days-of-code/blob/main/majority_element.js)|[Easy]( https://leetcode.com/problems/majority-element/)|
-|8|[Remove Duplicates From Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/remove_duplicates_from_sorted_array.js)|[Easy]( https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
+|8|[Remove Duplicates From Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/remove_duplicates_from_sorted_array.js)|[Easy](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
+|9|[3Sum](https://github.com/isabellukk/100-days-of-code/blob/main/3sum.js)|[Medium](https://leetcode.com/problems/3sum/description/)|
