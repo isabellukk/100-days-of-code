@@ -13,3 +13,4 @@
 |8|[Remove Duplicates From Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/remove_duplicates_from_sorted_array.js)|[Easy](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|
 |9|[3Sum](https://github.com/isabellukk/100-days-of-code/blob/main/3sum.js)|[Medium](https://leetcode.com/problems/3sum/description/)|
 |10|[Number of Islands](https://github.com/isabellukk/100-days-of-code/blob/main/number_of_islands.js)|[Medium](https://leetcode.com/problems/number-of-islands/description/)|
+|10|[Missing Number](https://github.com/isabellukk/100-days-of-code/blob/main/missing_number.js)|[Easy](https://leetcode.com/problems/missing-number/description/)|
