@@ -14,3 +14,4 @@
 |9|[3Sum](https://github.com/isabellukk/100-days-of-code/blob/main/3sum.js)|[Medium](https://leetcode.com/problems/3sum/description/)|
 |10|[Number of Islands](https://github.com/isabellukk/100-days-of-code/blob/main/number_of_islands.js)|[Medium](https://leetcode.com/problems/number-of-islands/description/)|
 |11|[Missing Number](https://github.com/isabellukk/100-days-of-code/blob/main/missing_number.js)|[Easy](https://leetcode.com/problems/missing-number/description/)|
+|12|[Sort Colors](https://github.com/isabellukk/100-days-of-code/blob/main/sort_colors.js)|[Medium](https://leetcode.com/problems/sort-colors/description/)|
