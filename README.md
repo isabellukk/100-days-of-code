@@ -18,3 +18,4 @@
 |13|[Find the Index of the First Occurrence in a String](https://github.com/isabellukk/100-days-of-code/blob/main/find_the_index_of_the_first_occurrence_in_a_string.js)|[Easy](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|
 |14|[Find Minimum in Rotated Sorted Array II](https://github.com/isabellukk/100-days-of-code/blob/main/find_minimum_in_rotated_sorted_array_II.js)|[Hard](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)|
 |15|[Maximum Gap](https://github.com/isabellukk/100-days-of-code/blob/main/maximum_gap.js)|[Hard](https://leetcode.com/problems/maximum-gap/description/)|
+|15|[Move Zeroes](https://github.com/isabellukk/100-days-of-code/blob/main/move_zeroes.js)|[Easy](https://leetcode.com/problems/move-zeroes/description/)|
