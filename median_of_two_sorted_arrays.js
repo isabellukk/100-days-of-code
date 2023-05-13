@@ -1,6 +1,6 @@
 // ----- Median of Two Sorted Arrays ----- //
 
-// Difficulty: Medium
+// Difficulty: Hard
 // Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 var findMedianSortedArrays = function (nums1, nums2) {
