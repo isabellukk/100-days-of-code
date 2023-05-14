@@ -22,3 +22,4 @@
 |17|[Top K Frequent Elements](https://github.com/isabellukk/100-days-of-code/blob/main/top_k_frequent_elements.js)|[Medium](https://leetcode.com/problems/top-k-frequent-elements/)|
 |18|[Single Element in a Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/single_element_in_a_sorted_array.js)|[Medium](https://leetcode.com/problems/single-element-in-a-sorted-array/)|
 |19|[Median of Two Sorted Arrays](https://github.com/isabellukk/100-days-of-code/blob/main/median_of_two_sorted_arrays.js)|[Hard](https://leetcode.com/problems/median-of-two-sorted-arrays/)|
+|20|[Reverse Integer](https://github.com/isabellukk/100-days-of-code/blob/main/reverse_integer.js)|[Medium](https://leetcode.com/problems/reverse-integer/)|
