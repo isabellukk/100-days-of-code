@@ -26,4 +26,4 @@
 |21|[Regular Expression Matching](https://github.com/isabellukk/100-days-of-code/blob/main/regular_expression_matching.js)|[Hard](https://leetcode.com/problems/regular-expression-matching/description/)|
 |22|[Trapping Rain Water](https://github.com/isabellukk/100-days-of-code/blob/main/trapping_rain_water.js)|[Hard](https://leetcode.com/problems/trapping-rain-water/description/)|
 |23|[Merge Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/merge_sorted_array.js)|[Easy](https://leetcode.com/problems/merge-sorted-array/description/)|
-|23|[Simplify Path](https://github.com/isabellukk/100-days-of-code/blob/main/simplify_path.js)|[Medium](https://leetcode.com/problems/simplify-path/)|
+|24|[Simplify Path](https://github.com/isabellukk/100-days-of-code/blob/main/simplify_path.js)|[Medium](https://leetcode.com/problems/simplify-path/)|
