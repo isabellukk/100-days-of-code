@@ -1,3 +1,8 @@
+// ----- Trapping Rain Water ----- //
+
+// Difficulty: Hard
+// Link: https://leetcode.com/problems/trapping-rain-water/description/
+
 var trap = function (height) {
   let left = 0;
   let right = height.length - 1;
