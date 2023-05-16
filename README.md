@@ -27,4 +27,5 @@
 |22|[Trapping Rain Water](https://github.com/isabellukk/100-days-of-code/blob/main/trapping_rain_water.js)|[Hard](https://leetcode.com/problems/trapping-rain-water/description/)|
 |23|[Merge Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/merge_sorted_array.js)|[Easy](https://leetcode.com/problems/merge-sorted-array/description/)|
 |24|[Simplify Path](https://github.com/isabellukk/100-days-of-code/blob/main/simplify_path.js)|[Medium](https://leetcode.com/problems/simplify-path/)|
-|25|[Single Number](https://github.com/isabellukk/100-days-of-code/blob/main/single_number.js)|[Medium](https://leetcode.com/problems/single-number/description/)|
+|25|[Single Number](https://github.com/isabellukk/100-days-of-code/blob/main/single_number.js)|[Easy](https://leetcode.com/problems/single-number/description/)|
+|26|[Single Number II](https://github.com/isabellukk/100-days-of-code/blob/main/single_number_ii.js)|[Medium](https://leetcode.com/problems/single-number-ii/)|
