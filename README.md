@@ -30,3 +30,4 @@
 |25|[Single Number](https://github.com/isabellukk/100-days-of-code/blob/main/single_number.js)|[Easy](https://leetcode.com/problems/single-number/description/)|
 |26|[Single Number II](https://github.com/isabellukk/100-days-of-code/blob/main/single_number_ii.js)|[Medium](https://leetcode.com/problems/single-number-ii/)|
 |27|[Remove Element](https://github.com/isabellukk/100-days-of-code/blob/main/remove_element.js)|[Easy](https://leetcode.com/problems/remove-element)|
+|28|[Single Number III](https://github.com/isabellukk/100-days-of-code/blob/main/single_number_iii.js)|[Medium](https://leetcode.com/problems/single-number-iii/)|
