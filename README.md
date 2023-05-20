@@ -31,3 +31,4 @@
 |26|[Single Number II](https://github.com/isabellukk/100-days-of-code/blob/main/single_number_ii.js)|[Medium](https://leetcode.com/problems/single-number-ii/)|
 |27|[Remove Element](https://github.com/isabellukk/100-days-of-code/blob/main/remove_element.js)|[Easy](https://leetcode.com/problems/remove-element)|
 |28|[Single Number III](https://github.com/isabellukk/100-days-of-code/blob/main/single_number_iii.js)|[Medium](https://leetcode.com/problems/single-number-iii/)|
+|29|[First Missing Positive](https://github.com/isabellukk/100-days-of-code/blob/main/first_missing_positive.js)|[Hard](https://leetcode.com/problems/first-missing-positive/description/)|
