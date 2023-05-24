@@ -1,3 +1,8 @@
+// ----- Perfect Squares ----- //
+
+// Difficulty: Medium
+// Link: https://leetcode.com/problems/perfect-squares/description/
+
 var numSquares = function (n) {
   while (n % 4 == 0) {
     n /= 4;
