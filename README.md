@@ -34,4 +34,5 @@
 |29|[First Missing Positive](https://github.com/isabellukk/100-days-of-code/blob/main/first_missing_positive.js)|[Hard](https://leetcode.com/problems/first-missing-positive/description/)|
 |30|[Length of Last Word](https://github.com/isabellukk/100-days-of-code/blob/main/length_of_last_word.js)|[Easy](https://leetcode.com/problems/length-of-last-word/description/)|
 |31|[Valid Number](https://github.com/isabellukk/100-days-of-code/blob/main/valid_number.js)|[Hard](https://leetcode.com/problems/valid-number/description/)|
-|32|[Largest Number](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/largest_number.jss)|[Medium](https://leetcode.com/problems/largest-number/)|
+|32|[Largest Number](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/largest_number.js)|[Medium](https://leetcode.com/problems/largest-number/)|
+|33|[Perfect Squares](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/perfect_squares.js)|[Medium](https://leetcode.com/problems/perfect-squares/description/)|
