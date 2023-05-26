@@ -36,3 +36,4 @@
 |31|[Valid Number](https://github.com/isabellukk/100-days-of-code/blob/main/valid_number.js)|[Hard](https://leetcode.com/problems/valid-number/description/)|
 |32|[Largest Number](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/largest_number.js)|[Medium](https://leetcode.com/problems/largest-number/)|
 |33|[Perfect Squares](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/perfect_squares.js)|[Medium](https://leetcode.com/problems/perfect-squares/description/)|
+|34|[Coin Change](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/coin_change.js)|[Medium](https://leetcode.com/problems/coin-change/description/)|
