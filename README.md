@@ -41,3 +41,4 @@
 |36|[Next Greater Element I](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/next_greater_element_i.js)|[Easy](https://leetcode.com/problems/next-greater-element-i/description/)|
 |37|[Integer to Roman](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/integer_to_roman.js)|[Medium](https://leetcode.com/problems/integer-to-roman/description/)|
 |38|[Find First and Last Position of Element in Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/find_first_and_last_position_of_element_in_sorted_array.js)|[Medium](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|
+|39|[Sqrt(x)](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/sqrt_x.js)|[Easy](https://leetcode.com/problems/sqrtx/description/)|
