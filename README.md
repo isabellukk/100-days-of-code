@@ -44,3 +44,4 @@
 |39|[Sqrt(x)](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/sqrt_x.js)|[Easy](https://leetcode.com/problems/sqrtx/description/)|
 |40|[Best Time to Buy and Sell Stock II](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/best_time_to_buy_and_sell_stock_ii.js)|[Medium](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|
 |41|[Gas Station](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/gas_station.js)|[Medium](https://leetcode.com/problems/gas-station/description/)|
+|42|[Plus One](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/plus_one.js)|[Easy](https://leetcode.com/problems/plus-one/)|
