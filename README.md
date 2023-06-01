@@ -43,3 +43,4 @@
 |38|[Find First and Last Position of Element in Sorted Array](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/find_first_and_last_position_of_element_in_sorted_array.js)|[Medium](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|
 |39|[Sqrt(x)](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/sqrt_x.js)|[Easy](https://leetcode.com/problems/sqrtx/description/)|
 |40|[Best Time to Buy and Sell Stock II](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/best_time_to_buy_and_sell_stock_ii.js)|[Medium](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|
+|41|[Gas Station](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/gas_station.js)|[Easy](https://leetcode.com/problems/gas-station/description/)|
