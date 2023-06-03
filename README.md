@@ -46,3 +46,4 @@
 |41|[Gas Station](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/gas_station.js)|[Medium](https://leetcode.com/problems/gas-station/description/)|
 |42|[Plus One](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/plus_one.js)|[Easy](https://leetcode.com/problems/plus-one/)|
 |43|[Word Break](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/word_break.js)|[Medium](https://leetcode.com/problems/word-break/description/)|
+|44|[Add Digits](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/add_digits.js)|[Easy](https://leetcode.com/problems/add-digits/description/)|
