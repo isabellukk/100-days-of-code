@@ -48,3 +48,4 @@
 |43|[Word Break](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/word_break.js)|[Medium](https://leetcode.com/problems/word-break/description/)|
 |44|[Add Digits](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/add_digits.js)|[Easy](https://leetcode.com/problems/add-digits/description/)|
 |45|[Search Insert Position](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/search_insert_position.js)|[Easy](https://leetcode.com/problems/search-insert-position/description/)|
+|46|[Valid Palindrome](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/valid_palindrome.js)|[Easy](https://leetcode.com/problems/valid-palindrome/description/)|
