@@ -50,3 +50,4 @@
 |45|[Search Insert Position](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/search_insert_position.js)|[Easy](https://leetcode.com/problems/search-insert-position/description/)|
 |46|[Valid Palindrome](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/valid_palindrome.js)|[Easy](https://leetcode.com/problems/valid-palindrome/description/)|
 |47|[Letter Combinations of a Phone Number](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/letter_combinations_of_a_phone_number.js)|[Medium](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|
+|48|[Reverse Words in a String](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/reverse_words_in_a_string.js)|[Medium](https://leetcode.com/problems/reverse-words-in-a-string/description/)|
