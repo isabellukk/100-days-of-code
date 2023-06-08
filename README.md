@@ -53,3 +53,4 @@
 |48|[Reverse Words in a String](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/reverse_words_in_a_string.js)|[Medium](https://leetcode.com/problems/reverse-words-in-a-string/description/)|
 |49|[Remove Linked List Elements](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/remove_linked_list_elements.js)|[Easy](https://leetcode.com/problems/remove-linked-list-elements/description/)|
 |50|[Word Pattern](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/word_pattern.js)|[Easy](https://leetcode.com/problems/word-pattern/description/)|
+|51|[Power of Three](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/power_of_three.js)|[Easy](https://leetcode.com/problems/power-of-three/description/)|
