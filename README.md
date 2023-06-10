@@ -55,3 +55,4 @@
 |50|[Word Pattern](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/word_pattern.js)|[Easy](https://leetcode.com/problems/word-pattern/description/)|
 |51|[Power of Three](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/power_of_three.js)|[Easy](https://leetcode.com/problems/power-of-three/description/)|
 |52|[Valid Perfect Square](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/valid_perfect_square.js)|[Easy](https://leetcode.com/problems/valid-perfect-square/description/)|
+|53|[Multiply Strings](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/multiply_strings.js)|[Medium](https://leetcode.com/problems/multiply-strings/description/)|
