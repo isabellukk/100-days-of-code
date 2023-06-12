@@ -58,3 +58,4 @@
 |53|[Multiply Strings](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/multiply_strings.js)|[Medium](https://leetcode.com/problems/multiply-strings/description/)|
 |54|[Delete Node in a Linked List](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/delete_node_in_a_linked_list.js)|[Medium](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|
 |55|[Max Consecutive Ones](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/max_consecutive_ones.js)|[Easy](https://leetcode.com/problems/max-consecutive-ones/description/)|
+|56|[Relative Ranks](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/relative_ranks.js)|[Easy](https://leetcode.com/problems/relative-ranks/)|
