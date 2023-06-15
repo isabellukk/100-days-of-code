@@ -60,3 +60,4 @@
 |55|[Max Consecutive Ones](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/max_consecutive_ones.js)|[Easy](https://leetcode.com/problems/max-consecutive-ones/description/)|
 |56|[Relative Ranks](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/relative_ranks.js)|[Easy](https://leetcode.com/problems/relative-ranks/)|
 |57|[Add Binary](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/add_binary.js)|[Easy](https://leetcode.com/problems/add-binary/description/)|
+|58|[Add Binary](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/add_strings.js)|[Easy](https://leetcode.com/problems/add-strings/description/)|
