@@ -61,3 +61,4 @@
 |56|[Relative Ranks](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/relative_ranks.js)|[Easy](https://leetcode.com/problems/relative-ranks/)|
 |57|[Add Binary](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/add_binary.js)|[Easy](https://leetcode.com/problems/add-binary/description/)|
 |58|[Add Binary](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/add_strings.js)|[Easy](https://leetcode.com/problems/add-strings/description/)|
+|59|[Remove Duplicate Letters](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/remove_duplicate_letters.js)|[Medium](https://leetcode.com/problems/remove-duplicate-letters/description/)|
