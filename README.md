@@ -64,3 +64,4 @@
 |59|[Remove Duplicate Letters](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/remove_duplicate_letters.js)|[Medium](https://leetcode.com/problems/remove-duplicate-letters/description/)|
 |60|[Rotate Image](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/rotate_image.js)|[Medium](https://leetcode.com/problems/rotate-image/description/)|
 |61|[Guess Number Higher or Lower](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/guess_number_higher_or_lower.js)|[Easy](https://leetcode.com/problems/guess-number-higher-or-lower/description/)|
+|62|[Combination Sum](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/combination_sum.js)|[Medium](https://leetcode.com/problems/combination-sum/description/)|
