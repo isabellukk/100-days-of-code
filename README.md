@@ -68,3 +68,4 @@
 |63|[Minimum Genetic Mutation](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/minimum_genetic_mutation.js)|[Medium](https://leetcode.com/problems/minimum-genetic-mutation/description/)|
 |64|[Repeated Substring Pattern](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/repeated_substring_pattern.js)|[Easy](https://leetcode.com/problems/repeated-substring-pattern/)|
 |65|[Valid Square](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/valid_square.js)|[Medium](https://leetcode.com/problems/valid-square/description/)|
+|66|[Count and Say](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/count_and_say.js)|[Medium](https://leetcode.com/problems/count-and-say/description/)|
