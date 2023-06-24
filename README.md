@@ -70,4 +70,5 @@
 |65|[Valid Square](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/valid_square.js)|[Medium](https://leetcode.com/problems/valid-square/description/)|
 |66|[Count and Say](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/count_and_say.js)|[Medium](https://leetcode.com/problems/count-and-say/description/)|
 |67|[Edit Distance](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/edit_distance.js)|[Medium](https://leetcode.com/problems/edit-distance/description/)|
-|67|[Subsets](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/subsets.js)|[Medium](https://leetcode.com/problems/subsets/description/)|
+|68|[Subsets](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/subsets.js)|[Medium](https://leetcode.com/problems/subsets/description/)|
+|69|[Arranging Coins](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/arranging_coins.js)|[Medium](https://leetcode.com/problems/arranging-coins/description/)|
