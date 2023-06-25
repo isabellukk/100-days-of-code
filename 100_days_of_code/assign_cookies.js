@@ -1,6 +1,6 @@
 // ----- String Compression ---- //
 
-// Difficulty: Medium
+// Difficulty: Easy
 // Link: https://leetcode.com/problems/string-compression/description/
 
 var findContentChildren = function (g, s) {
