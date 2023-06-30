@@ -8,15 +8,12 @@ var bulbSwitch = function (n) {
 
   let factor = 1;
   while (n > 0) {
-    // remove 1x 1, and add it to the answer
     n--;
     ans++;
 
-    // The one is followed by 2 * factor zeroes:
     n = n - factor * 2;
     factor++;
   }
-
   return ans;
 };
 
