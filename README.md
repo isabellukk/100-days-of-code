@@ -77,3 +77,4 @@
 |72|[Minimum Moves to Equal Array Elements II](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/minimum_moves_to_equal_array_elements_ii.js)|[Medium](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)|
 |73|[Target Sum](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/target_sum.js)|[Medium](https://leetcode.com/problems/target-sum/description/)|
 |74|[Longest Increasing Subsequence](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/longest_increasing_subsequence.js)|[Medium](https://leetcode.com/problems/longest-increasing-subsequence/description/)|
+|75|[Bulb Switcher](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/bulb_switcher.js)|[Medium](https://leetcode.com/problems/bulb-switcher/description/)|
