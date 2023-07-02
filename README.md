@@ -79,3 +79,4 @@
 |74|[Longest Increasing Subsequence](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/longest_increasing_subsequence.js)|[Medium](https://leetcode.com/problems/longest-increasing-subsequence/description/)|
 |75|[Bulb Switcher](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/bulb_switcher.js)|[Medium](https://leetcode.com/problems/bulb-switcher/description/)|
 |76|[Intersection of Two Arrays](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/intersection_of_two_arrays.js)|[Medium](https://leetcode.com/problems/add-binary/description/)|
+|77|[Nim Game](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/nim_game.js)|[Easy](https://leetcode.com/problems/nim-game/description/)|
