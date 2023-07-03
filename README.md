@@ -82,3 +82,4 @@
 |77|[Nim Game](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/nim_game.js)|[Easy](https://leetcode.com/problems/nim-game/description/)|
 |78|[Reverse String](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/reverse_string.js)|[Easy](https://leetcode.com/problems/reverse-string/description/)|
 |79|[Ransom Note](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/ransom_note.js)|[Easy](https://leetcode.com/problems/ransom-note/description/)|
+|80|[Ugly Number](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/ugly_number.js)|[Easy](https://leetcode.com/problems/ugly-number/description/)|
