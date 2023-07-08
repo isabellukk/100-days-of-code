@@ -87,3 +87,4 @@
 |82|[Super Pow](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/super_pow.js)|[Medium](https://leetcode.com/problems/super-pow/description/)|
 |83|[Remove K Digits](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/remove_k_digits.js)|[Medium](https://leetcode.com/problems/remove-k-digits/description/)|
 |84|[Arithmetic Slices](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/arithmetic_slices.js)|[Medium](https://leetcode.com/problems/arithmetic-slices/description/)|
+|85|[Find All Duplicates in an Array](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/find_all_duplicates_in_an_array.js)|[Medium](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|
