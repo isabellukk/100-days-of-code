@@ -86,3 +86,4 @@
 |81|[Odd Even Linked List](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/odd_even_linked_list.js)|[Medium](https://leetcode.com/problems/odd-even-linked-list/description/)|
 |82|[Super Pow](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/super_pow.js)|[Medium](https://leetcode.com/problems/super-pow/description/)|
 |83|[Remove K Digits](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/remove_k_digits.js)|[Medium](https://leetcode.com/problems/remove-k-digits/description/)|
+|84|[Arithmetic Slices](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/arithmetic_slices.js)|[Medium](https://leetcode.com/problems/arithmetic-slices/description/)|
