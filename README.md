@@ -91,3 +91,4 @@
 |86|[Summary Ranges](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/summary_ranges.js)|[Easy](https://leetcode.com/problems/summary-ranges/description/)|
 |87|[Valid Anagram](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/valid_anagram.js)|[Easy](https://leetcode.com/problems/valid-anagram/description/)|
 |88|[Counter](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/counter.js)|[Easy](https://leetcode.com/problems/counter/description/)|
+|89|[Sleep](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/sleep.js)|[Easy](https://leetcode.com/problems/sleep/description/)|
