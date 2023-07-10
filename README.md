@@ -90,3 +90,4 @@
 |85|[Find All Duplicates in an Array](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/find_all_duplicates_in_an_array.js)|[Medium](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|
 |86|[Summary Ranges](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/summary_ranges.js)|[Easy](https://leetcode.com/problems/summary-ranges/description/)|
 |87|[Valid Anagram](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/valid_anagram.js)|[Easy](https://leetcode.com/problems/valid-anagram/description/)|
+|88|[Counter](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/counter.js)|[Easy](https://leetcode.com/problems/counter/description/)|
