@@ -93,3 +93,4 @@
 |88|[Counter](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/counter.js)|[Easy](https://leetcode.com/problems/counter/description/)|
 |89|[Sleep](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/sleep.js)|[Easy](https://leetcode.com/problems/sleep/description/)|
 |90|[Swap Nodes in Pairs](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/swap_nodes_in_pairs.js)|[Medium](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|
+|91|[Word Pattern](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/word_pattern.js)|[Easy](https://leetcode.com/problems/word-pattern/description/)|
