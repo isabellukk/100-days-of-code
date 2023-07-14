@@ -95,3 +95,4 @@
 |90|[Swap Nodes in Pairs](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/swap_nodes_in_pairs.js)|[Medium](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|
 |91|[Word Pattern](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/word_pattern.js)|[Easy](https://leetcode.com/problems/word-pattern/description/)|
 |92|[Koko Eating Bananas](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/koko_eating_bananas.js)|[Medium](https://leetcode.com/problems/koko-eating-bananas/description/)|
+|93|[Maximum Average Subarray I](https://github.com/isabellukk/100-days-of-code/blob/main/100_days_of_code/maximum_average_subarray_i.js)|[Easy](https://leetcode.com/problems/maximum-average-subarray-i/description/)|
